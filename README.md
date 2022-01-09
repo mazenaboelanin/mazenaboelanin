@@ -1,0 +1,8 @@
+- 👋 Hi there, I’m Mazen Abo Elanin 
+- 🧑🏻‍💻 I'm a Software Engineer 
+- 👉 Passionate about Web development / Cyber Security
+- 👉 Skilled in Node.js, Express.js. SQL, and NoSQL Databases (MySQL, PostgreSQL, and MongoDB)
+- 👉  Have good hands-on experience in front-end technologies such as (HTML, CSS, Bootstrap, Javascript, jQuery). 
+- 👉 Familiar With Python/Flask, PHP/Laravel.
+- 📫 Check Out my LinkedIn Account @mazenaboelanin
+- 📫 You can Reach me on Gmail: mazenaboelanin@gmail.com
