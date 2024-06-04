@@ -1,9 +1,10 @@
 - 👋 Hi there, I’m Mazen Abo Elanin 
-- 🧑🏻‍💻 I'm a Software Engineer 
-- 👉 Passionate about Software Development
+- 🧑🏻‍💻 a Software Engineer with 2.5+ years of professional software development experience in designing, developing,and maintaining software solutions.
 - 👉 Have a very good hands-on experience in Frontend using:
-     - HTML, CSS, Bootstrap, Javascript
+     - HTML, CSS, Bootstrap
+     - Javascript, TypeScript
      - Angular, and Ionic
+     - React, and React Native
 
 - 👉 Worked with different stacks in Backend:
      - Ruby on Rails, and PostgreSQL
